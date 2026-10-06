@@ -11,4 +11,4 @@ Control home appliances (Light, Fan) via Mobile using IoT.
 ### How it works
 Mobile -> WiFi -> ESP32 -> Relay -> Appliances ON/OFF
 
-Made by A. Sharik Ahmed | ECE | VSB Tech
+Made by A. Sharik Ahmed | ECE | VSB college of engineering technical campus 
